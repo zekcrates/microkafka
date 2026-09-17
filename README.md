@@ -18,4 +18,3 @@ server.Start("127.0.0.1:9092")
 
 This is not a production Kafka replacement. It's a minimal broker for learning and benchmarking. No replication, no consumer groups, no transactions, no compression, no authentication.
 
-Inspired by [TinyKafka](https://github.com/TinyKafka/TinyKafka) (C++).
