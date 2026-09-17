@@ -1,0 +1,36 @@
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+
+# Binary
+tinykafka
+microkafka
+
+# Data directory (broker persistence)
+*.data/
+data/
+
+# Logs
+*.log
+
+other_repo/
+other_repo/*
+
+# IDE
+.vscode/
+.vscode
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
