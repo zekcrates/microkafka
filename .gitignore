@@ -10,7 +10,7 @@ go.work
 go.work.sum
 
 # Binary
-tinykafka
+# tinykafka
 microkafka
 
 # Data directory (broker persistence)
